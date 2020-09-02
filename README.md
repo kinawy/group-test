@@ -6,3 +6,7 @@ It's a description
 
 It's more info!
 This is a MAJOR test
+
+# Bugs Deleted
+
+1.1: dis bug: no more bugs
