@@ -9,4 +9,6 @@ This is a MAJOR test
 
 # Bugs Deleted
 
-1.1: dis bug: no more bugs
+
+1.3: dis bug: no more bugs
+
